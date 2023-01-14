@@ -2,7 +2,7 @@
 
 ## Presentation
 -----------
-![png](./ReadMe/GameScreen_1.png)
+![png](./Images/GameScreen_1.png)
 
 ### Introduction
 -----------
