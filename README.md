@@ -3,7 +3,7 @@
 ## Presentation
 -----------
 ![png](./Images/GameScreen_1.png)
-Link : https://srybe.itch.io/gladiator
+Link : https://mateo-gp.itch.io/gladiator
 
 ### Introduction
 -----------
